@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Name: Cyrose Kyalo
+  ~ Matric Number: S1803439
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/search_btn"
+        android:icon="@drawable/search_icon"
+        android:title="@string/search"
+        yourapp:showAsAction="always"
+        android:showAsAction="always"/>
+
+</menu>
